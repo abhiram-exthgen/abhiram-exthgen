@@ -1,1 +1,1 @@
-[![ayyoo-paambeee](https://charapara.vercel.app/python.svg)
+![ayyoo-paambeee](https://charapara.vercel.app/python.svg)
